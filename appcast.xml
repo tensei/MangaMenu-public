@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+    xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>MangaMenu App's Changelog</title>
+        <description>Most recent changes.</description>
+        <language>en</language>
+        <item>
+            <title>First Release 1.0</title>
+            <pubDate>Mon, 22 Aug 2022 10:59:57 +0200</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/tensei/MangaMenu-public/releases/download/v1.0-18/MangaMenu.v1.0-18.zip" length="3381620" type="application/octet-stream" sparkle:edSignature="NdPG27I4La8KT90jjwAJpQU/6QFPrlRZLFeR+GE23Bo3ZsfZjmfBsCfdD9nx4Z/JARqc6JDi6Yo5Sr4+E6EgCg=="/>
+        </item>
+    </channel>
+</rss>
