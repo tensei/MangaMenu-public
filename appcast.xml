@@ -1,11 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"
-    xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
-    xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
     <channel>
         <title>MangaMenu App's Changelog</title>
         <description>Most recent changes.</description>
         <language>en</language>
+        <item>
+            <title>v1.0-20</title>
+            <pubDate>Fri, 26 Aug 2022 15:15:53 +0200</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/tensei/MangaMenu-Public/releases/download/v0.1-20/MangaMenu.v1.0-20.zip" length="3425399" type="application/octet-stream" sparkle:edSignature="c7xCF/nCPIil/GZcxE+qXkNgMeaYptoKcll/7g8Jy66zVyhlwEWArsy+QMiYTqh+kp66US+oyBm/CUn9TSOYCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/tensei/MangaMenu-Public/releases/download/v0.1-20/MangaMenu20-18.delta" sparkle:deltaFrom="18" length="314346" type="application/octet-stream" sparkle:edSignature="U8K1kpkbqxKFbOj79nTAdhwmqqow6AJdwRMY4aDIj2/3myvB7McO48siaZr11+jxD0SjgkGZ48PmIbzBDgL3Dg=="/>
+            </sparkle:deltas>
+        </item>
         <item>
             <title>First Release 1.0</title>
             <pubDate>Mon, 22 Aug 2022 10:59:57 +0200</pubDate>
