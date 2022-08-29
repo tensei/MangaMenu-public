@@ -18,6 +18,11 @@
     </tr>
 </table>
 
+# v1.0 build 20
+
+- Added: You can now click on the manga cover in Latest to open the manga detail view.
+- various bug fixes
+
 # v1.0 build 18
 
 - Initial release
