@@ -1,4 +1,6 @@
 # Public Repo for MangaMenu Updates
+[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
+[![Github all releases](https://img.shields.io/github/downloads/tensei/MangaMenu-public/total.svg)](https://github.com/tensei/MangaMenu-public/releases/)
 
 ## What is this?
 
