@@ -7,7 +7,7 @@
 
     soon™...
 
-## Screenshots
+# Screenshots
 
 <table>
     <tr>
@@ -32,6 +32,11 @@
 </table>
 
 # Changelog
+
+    v1.0 build 21
+    - Added: Clicking on notification to open Chapter in Browser
+    - Added: buymeacoffee button :)
+    - Renamed: ALL to BROWSE
 
     v1.0 build 20
     - Added: You can now click on the manga cover in Latest to open the manga detail view

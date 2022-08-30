@@ -6,6 +6,18 @@
         <description>Most recent changes.</description>
         <language>en</language>
         <item>
+            <title>v1.0-21</title>
+            <pubDate>Tue, 30 Aug 2022 22:56:17 +0200</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/tensei/MangaMenu-Public/releases/download/v0.1-21/MangaMenu.v1.0-21.zip" length="3470076" type="application/octet-stream" sparkle:edSignature="Oj/0hzSAWsUU2seygG3yVj+gmctS4vJy5xHUDkBCjbIybMYVzI2FodhzqlvjkouxqULY0puHApAVCJ4N0QpoDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/tensei/MangaMenu-Public/releases/download/v0.1-21/MangaMenu21-20.delta" sparkle:deltaFrom="20" length="261162" type="application/octet-stream" sparkle:edSignature="IEGpubj7ulrOYg/FgmcnNcQ2qON47jNYD0QsGj0kwRORZgE6GVuL0WlU8+1difBgJi923uDKJjRYXnvsG5CrCQ=="/>
+                <enclosure url="https://github.com/tensei/MangaMenu-Public/releases/download/v0.1-21/MangaMenu21-18.delta" sparkle:deltaFrom="18" length="380106" type="application/octet-stream" sparkle:edSignature="vj/G8tv9HhyD+71pFtUrxZWQui90TH89QcTB1T79VFvy/pnbcOeaFYX5QaehNxrOXztrSwD1/yykz6dlbOK5Bg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>v1.0-20</title>
             <pubDate>Fri, 26 Aug 2022 15:15:53 +0200</pubDate>
             <sparkle:version>20</sparkle:version>
