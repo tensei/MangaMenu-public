@@ -1,11 +1,19 @@
-# Public Repo for MangaMenu Updates
+# MangaMenu Updates
 
-[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
-[![Github all releases](https://img.shields.io/github/downloads/tensei/MangaMenu-public/total.svg)](https://github.com/tensei/MangaMenu-public/releases/)
+![macOS](https://svgshare.com/i/ZjP.svg)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/tensei/MangaMenu-public)
+![GitHub all releases](https://img.shields.io/github/downloads/tensei/MangaMenu-public/total)
 
-## What is this?
+MangaMenu is a macOS menubar app that regularly checks [MangaPlus](https://mangaplus.shueisha.co.jp/updates) for updates to your favorite manga and notifies you if there are any.
 
-    soon™...
+
+# Features
+
+* See latest chapters
+* Manage your favorites
+* Show manga Details
+* Open chapters in your browser
+* Notifications on new chapters
 
 # Screenshots
 
