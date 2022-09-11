@@ -6,6 +6,7 @@
 
 MangaMenu is a macOS menubar app that regularly checks [MangaPlus](https://mangaplus.shueisha.co.jp/updates) for updates to your favorite manga and notifies you if there are any.
 
+Download the latest version [here](https://github.com/tensei/MangaMenu-public/releases/latest).
 
 # Features
 
