@@ -7,6 +7,20 @@
         <language>en</language>
         <item>
             <title>1.0</title>
+            <pubDate>Wed, 21 Sep 2022 12:26:08 +0200</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/tensei/MangaMenu-public/releases/download/v1.0-25/MangaMenu.zip" length="3523802" type="application/octet-stream" sparkle:edSignature="8Ea/RedW2GDXYqg8rxijBhXbRO+gVBVgYM/6WrIUTtgINs8UwmGjscr6zFuQVGypwQQ/UKycxruvFi97KtabBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/tensei/MangaMenu-public/releases/download/v1.0-25/MangaMenu25-23.delta" sparkle:deltaFrom="23" length="321958" type="application/octet-stream" sparkle:edSignature="wi7qgwqribvta3B6XSB5mglwfLL43edbuhxyoAJrx0FsmQcr9hqkZnyjawAM/TND77sqfqjN3m38rzn8fKMEBQ=="/>
+                <enclosure url="https://github.com/tensei/MangaMenu-public/releases/download/v1.0-25/MangaMenu25-21.delta" sparkle:deltaFrom="21" length="426374" type="application/octet-stream" sparkle:edSignature="fIvn6jjLHgePUCub2sa64cDhEZL0M7mARh9lXwlYiEr5g68J9Q+lTVrxO6nf4ZosRi0NAjdtVkm4A8Q1rsQxDA=="/>
+                <enclosure url="https://github.com/tensei/MangaMenu-public/releases/download/v1.0-25/MangaMenu25-20.delta" sparkle:deltaFrom="20" length="464006" type="application/octet-stream" sparkle:edSignature="b9dW0ccuuzqhpw5XSMVSBShEsZF9HlRo4l5zFXErR+tj3IjqZGIDdXPF0/FlKsRVK3zyhEJvoxx/32xIxwLOAA=="/>
+                <enclosure url="https://github.com/tensei/MangaMenu-public/releases/download/v1.0-25/MangaMenu25-18.delta" sparkle:deltaFrom="18" length="536166" type="application/octet-stream" sparkle:edSignature="MDPMITZt2Qp+FUQMqS1gCs0mGi00YNVXZLfS6S5e1eMfX+Ma2GNpB7fh0v/kyoEldqa56z4tLcPafwCCddsnBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Tue, 13 Sep 2022 15:20:50 +0200</pubDate>
             <sparkle:version>23</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
