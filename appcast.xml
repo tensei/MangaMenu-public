@@ -7,6 +7,21 @@
         <language>en</language>
         <item>
             <title>1.0</title>
+            <pubDate>Tue, 27 Sep 2022 18:15:46 +0200</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/tensei/MangaMenu-public/releases/download/v1.0-26/MangaMenu.zip" length="3531989" type="application/octet-stream" sparkle:edSignature="KVyZv5NnTUQOl7J7bBQdWh5pzizRA1fE5sedZSlhKGkJq2qX5Y9pFfdp1YA4Aw8hn2By6EJoJbb8u0+JQVnMCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/tensei/MangaMenu-public/releases/download/v1.0-26/MangaMenu26-25.delta" sparkle:deltaFrom="25" length="243546" type="application/octet-stream" sparkle:edSignature="1e3ttUGpae+mcs37CRYcfbk+PhyJtaWkUYUuTwLE/dSuo4C8bx00QKFfErCvIHq0TOuYfp7RYbAWEXEoq9tcBg=="/>
+                <enclosure url="https://github.com/tensei/MangaMenu-public/releases/download/v1.0-26/MangaMenu26-23.delta" sparkle:deltaFrom="23" length="372302" type="application/octet-stream" sparkle:edSignature="40KPHrRLM4gA8tPm6fvvuavLnLQFe6/U8IQ3YokX4LRFbkhiEN/7S0vzb5ErQGjekwufPQguAuNPw19QDqthDg=="/>
+                <enclosure url="https://github.com/tensei/MangaMenu-public/releases/download/v1.0-26/MangaMenu26-21.delta" sparkle:deltaFrom="21" length="469226" type="application/octet-stream" sparkle:edSignature="P0/usDb0RRLlMG93u7+9BEetqnW9iMgtcJ5+I+5MmDnY7Zfoj2gWAqFuIxDG4sxny/XkIb4+IEyZGg9qARhRCg=="/>
+                <enclosure url="https://github.com/tensei/MangaMenu-public/releases/download/v1.0-26/MangaMenu26-20.delta" sparkle:deltaFrom="20" length="502474" type="application/octet-stream" sparkle:edSignature="ZotFP34mdwb5t7aCqfYnGknoaFR4CV+9K9JGYgTnEBheub3VqNqQoGuNDTw+rVZMeKk0u4fa73nWXJpzeX5iCg=="/>
+                <enclosure url="https://github.com/tensei/MangaMenu-public/releases/download/v1.0-26/MangaMenu26-18.delta" sparkle:deltaFrom="18" length="567386" type="application/octet-stream" sparkle:edSignature="DHlVGp3Ak9EfTRB06nL3GyhgPzMaaUzlBT+CmYRzYY5KltaYAzxU8Q2tPoIVk5NChYEH+I8AVVpdPCNUVW+JAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Wed, 21 Sep 2022 12:26:08 +0200</pubDate>
             <sparkle:version>25</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
