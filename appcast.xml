@@ -6,6 +6,21 @@
         <description>Most recent changes.</description>
         <language>en</language>
         <item>
+            <title>1.1</title>
+            <pubDate>Thu, 06 Oct 2022 22:51:48 +0200</pubDate>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/tensei/MangaMenu-public/releases/download/v1.1-31/MangaMenu.zip" length="3979307" type="application/octet-stream" sparkle:edSignature="cLrBNFFCqQ2SV/jtng9+t4PyU5+U82bvSZyLbPnDCAJLxyO/kQvaiSzUpcBRHylLv1t4b0npz9xNw7JM2CTQCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/tensei/MangaMenu-public/releases/download/v1.1-31/MangaMenu31-26.delta" sparkle:deltaFrom="26" length="1085902" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1381696" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="DUljhrqwaOee6UtJ8K9vvqiQuLH/K6ouFKo84FFb6RzN0RczD1GpedxbkcUtmRc+I+f4AD35R5AiFuxiaOSeBw=="/>
+                <enclosure url="https://github.com/tensei/MangaMenu-public/releases/download/v1.1-31/MangaMenu31-25.delta" sparkle:deltaFrom="25" length="1121450" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1381696" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="kdCDfF4cOikHDCHVZ/3pwjIcVM/by8NNtklesCJnAbUFlFSumDhkIQ4gLddD2ic5+x0BUGNewxag0Te2/ieeCA=="/>
+                <enclosure url="https://github.com/tensei/MangaMenu-public/releases/download/v1.1-31/MangaMenu31-23.delta" sparkle:deltaFrom="23" length="1203966" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1381696" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="wQfewhjeasi/ayHRPwLhn8PIHqhqrkUqyjMOEbxS4JZWtzRq46XZSKZVHDEo571Dv0dxSE79yL9Pe8xt1+kTDw=="/>
+                <enclosure url="https://github.com/tensei/MangaMenu-public/releases/download/v1.1-31/MangaMenu31-21.delta" sparkle:deltaFrom="21" length="1263362" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1381696" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="IpTpYIBlv2m+V4Ajjc7Qc7hKymvNy5T86QtGb7U7F/TBlcGOjQu4aJOw5/mLNcSE52YqLAKRYF7MzA3gLaGUAw=="/>
+                <enclosure url="https://github.com/tensei/MangaMenu-public/releases/download/v1.1-31/MangaMenu31-20.delta" sparkle:deltaFrom="20" length="1292570" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="1381696" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="1mEPdM/i7R1bEv5lTpSmONMLtXkiHknc3IXPc6PsGkfSF7hAjiWys8gd2Erzzu9PLqED9wNWWOI4JooDJCfhCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Tue, 27 Sep 2022 18:15:46 +0200</pubDate>
             <sparkle:version>26</sparkle:version>
@@ -33,50 +48,6 @@
                 <enclosure url="https://github.com/tensei/MangaMenu-public/releases/download/v1.0-25/MangaMenu25-20.delta" sparkle:deltaFrom="20" length="464006" type="application/octet-stream" sparkle:edSignature="b9dW0ccuuzqhpw5XSMVSBShEsZF9HlRo4l5zFXErR+tj3IjqZGIDdXPF0/FlKsRVK3zyhEJvoxx/32xIxwLOAA=="/>
                 <enclosure url="https://github.com/tensei/MangaMenu-public/releases/download/v1.0-25/MangaMenu25-18.delta" sparkle:deltaFrom="18" length="536166" type="application/octet-stream" sparkle:edSignature="MDPMITZt2Qp+FUQMqS1gCs0mGi00YNVXZLfS6S5e1eMfX+Ma2GNpB7fh0v/kyoEldqa56z4tLcPafwCCddsnBQ=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Tue, 13 Sep 2022 15:20:50 +0200</pubDate>
-            <sparkle:version>23</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tensei/MangaMenu-public/releases/download/v1.0-23/MangaMenu.zip" length="3475254" type="application/octet-stream" sparkle:edSignature="d9e2nLrNhfG+0HPcV+LB34gga4TTA8V6wj6Kn0hQGD0pj8f3zV4KWTqcQM6Ran8HUip0SissUkZObbvhPSvXBg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/tensei/MangaMenu-public/releases/download/v1.0-23/MangaMenu23-21.delta" sparkle:deltaFrom="21" length="339214" type="application/octet-stream" sparkle:edSignature="9DoRacBuAdx7zt0kJ8iUpCwlSbEyO99/qlntEjmFGBxSRUqQqczb0H+SPt5Ge1wP5j5yUv9SJpx/PCbZ44CDAQ=="/>
-                <enclosure url="https://github.com/tensei/MangaMenu-public/releases/download/v1.0-23/MangaMenu23-20.delta" sparkle:deltaFrom="20" length="382282" type="application/octet-stream" sparkle:edSignature="oOs1rIzkgIj2ibzBP3Vy9Z56nm+WBBg++Uq8KBHfzn3EeEhY+55MiFtOEPV0nNNK9ZoHbA1ctqQQR17tLzOfBg=="/>
-                <enclosure url="https://github.com/tensei/MangaMenu-public/releases/download/v1.0-23/MangaMenu23-18.delta" sparkle:deltaFrom="18" length="458798" type="application/octet-stream" sparkle:edSignature="2Kn7Aj0OzLFVNGbi4XK7dsI0gjpJDNdtzvrqFqFuwysO7TvvuogK/ny5iI6CIxacYyUj4n7Qzs0ZjC2uHRNKDA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>v1.0-21</title>
-            <pubDate>Tue, 30 Aug 2022 22:56:17 +0200</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tensei/MangaMenu-Public/releases/download/v0.1-21/MangaMenu.v1.0-21.zip" length="3470076" type="application/octet-stream" sparkle:edSignature="Oj/0hzSAWsUU2seygG3yVj+gmctS4vJy5xHUDkBCjbIybMYVzI2FodhzqlvjkouxqULY0puHApAVCJ4N0QpoDQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/tensei/MangaMenu-Public/releases/download/v0.1-21/MangaMenu21-20.delta" sparkle:deltaFrom="20" length="261162" type="application/octet-stream" sparkle:edSignature="IEGpubj7ulrOYg/FgmcnNcQ2qON47jNYD0QsGj0kwRORZgE6GVuL0WlU8+1difBgJi923uDKJjRYXnvsG5CrCQ=="/>
-                <enclosure url="https://github.com/tensei/MangaMenu-Public/releases/download/v0.1-21/MangaMenu21-18.delta" sparkle:deltaFrom="18" length="380106" type="application/octet-stream" sparkle:edSignature="vj/G8tv9HhyD+71pFtUrxZWQui90TH89QcTB1T79VFvy/pnbcOeaFYX5QaehNxrOXztrSwD1/yykz6dlbOK5Bg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>v1.0-20</title>
-            <pubDate>Fri, 26 Aug 2022 15:15:53 +0200</pubDate>
-            <sparkle:version>20</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tensei/MangaMenu-Public/releases/download/v0.1-20/MangaMenu.v1.0-20.zip" length="3425399" type="application/octet-stream" sparkle:edSignature="c7xCF/nCPIil/GZcxE+qXkNgMeaYptoKcll/7g8Jy66zVyhlwEWArsy+QMiYTqh+kp66US+oyBm/CUn9TSOYCg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/tensei/MangaMenu-Public/releases/download/v0.1-20/MangaMenu20-18.delta" sparkle:deltaFrom="18" length="314346" type="application/octet-stream" sparkle:edSignature="U8K1kpkbqxKFbOj79nTAdhwmqqow6AJdwRMY4aDIj2/3myvB7McO48siaZr11+jxD0SjgkGZ48PmIbzBDgL3Dg=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>First Release 1.0</title>
-            <pubDate>Mon, 22 Aug 2022 10:59:57 +0200</pubDate>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/tensei/MangaMenu-public/releases/download/v1.0-18/MangaMenu.v1.0-18.zip" length="3381620" type="application/octet-stream" sparkle:edSignature="NdPG27I4La8KT90jjwAJpQU/6QFPrlRZLFeR+GE23Bo3ZsfZjmfBsCfdD9nx4Z/JARqc6JDi6Yo5Sr4+E6EgCg=="/>
         </item>
     </channel>
 </rss>
