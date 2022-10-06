@@ -41,6 +41,9 @@ Download the latest version [here](https://github.com/tensei/MangaMenu-public/re
 </table>
 
 # Changelog
+    v1.1 build 31
+    - Fix: Memory leak
+    - Fix: Latest manga not showing sometimes
 
     v1.0 build 21
     - Added: Clicking on notification to open Chapter in Browser
